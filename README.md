@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository
 <br>
-Author- Mohit Tiwari
+Author- Mohit Tiwari (Apna College)
